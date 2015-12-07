@@ -4,7 +4,7 @@
 A few thing about me:
 - Age: 24
 - Gender: Male
-- A.K.A: Nick
+- A.K.A: "Nick" when eating bagels
 
 | Age        | Endeavour        | Success?  |
 | ------------- |:-------------:| -----:|
